@@ -1,62 +1,50 @@
-<h1 align="center">
-Hi 👋, I'm FK
-</h1>
-
-<h3 align="center">
-🚀 Java Developer | 🤖 Gen AI Enthusiast | 💻 Backend Engineer
-</h3>
+<h1 align="center">⚡ FK - Java & GenAI Developer ⚡</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Gen+AI+Developer;Spring+Boot+Expert;Kafka+Redis+WebSocket;Building+Real-Time+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Generative+AI+Developer;Spring+Boot+Engineer;Kafka+Redis+WebSocket+Builder;Building+Real-Time+Systems" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-💡 Passionate **Java Backend Developer** focused on building scalable systems.
+💡 **Java Developer focused on building scalable backend systems**
 
-⚡ I specialize in:
+⚡ Specialized in:
 
-- Java & Spring Boot
-- Microservices Architecture
-- Real-time Systems
-- Generative AI Integration
-- Kafka & Redis
-- WebSocket Applications
+- Java
+- Spring Boot
+- Kafka
+- Redis
+- WebSocket
+- Real-time systems
+- Generative AI integrations
 
-🔥 Currently exploring:
+🚀 Currently exploring
 
-- **Gen AI + Java Applications**
-- **AI powered backend systems**
-- **High performance distributed systems**
+- AI powered backend systems  
+- distributed architecture  
+- high performance microservices  
 
 ---
 
 # 🧠 Tech Stack
 
-### Backend
+<p align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-brown?style=for-the-badge&logo=hibernate)
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,kafka,react,js,html,css,git,github,postman,vscode&theme=dark" />
 
-### Databases
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+---
 
-### Real-Time Technologies
+# 📊 Skill Level
 
-![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka)
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
-![WebSocket](https://img.shields.io/badge/WebSocket-blue?style=for-the-badge)
-
-### AI / Gen AI
-
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
-![LLM](https://img.shields.io/badge/LLM-AI-blueviolet?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/GenerativeAI-purple?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-95%25-00F7FF?style=for-the-badge&logo=java)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-92%25-00F7FF?style=for-the-badge&logo=springboot)
+![Kafka](https://img.shields.io/badge/Kafka-85%25-00F7FF?style=for-the-badge&logo=apachekafka)
+![Redis](https://img.shields.io/badge/Redis-83%25-00F7FF?style=for-the-badge&logo=redis)
+![GenAI](https://img.shields.io/badge/GenAI-80%25-00F7FF?style=for-the-badge)
 
 ---
 
@@ -70,13 +58,19 @@ Hi 👋, I'm FK
 
 </p>
 
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fk1271339&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=fk1271339&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=fk1271339&theme=algolia&no-frame=true&column=6"/>
 
 </p>
 
@@ -95,12 +89,55 @@ Hi 👋, I'm FK
 # 🐍 Contribution Snake
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/fk1271339/fk1271339/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
 
-# 👀 Profile Views
+# 🧠 AI Developer Zone
+
+🚀 Building **AI powered backend systems** using:
+
+- Java
+- Spring Boot
+- LLM integrations
+- Kafka streaming
+- Redis caching
+- scalable microservices
+
+---
+
+# 🕶 Matrix Terminal
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&width=900&lines=Initializing+AI+Core...;Loading+Java+Modules...;Connecting+Kafka+Streams...;Syncing+Redis+Cache...;Deploying+Backend+System...;Access+Granted+✔" />
+
+</p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://github.com/fk1271339">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
 
 <p align="center">
 
@@ -110,24 +147,8 @@ Hi 👋, I'm FK
 
 ---
 
-# 🌐 Connect With Me
+<h3 align="center">
 
-<p align="center">
+⚡ Code the Future • Build with Java • Scale with AI ⚡
 
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-⭐ From **FK | Java + Gen AI Developer**
+</h3>
