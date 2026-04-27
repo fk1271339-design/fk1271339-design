@@ -1,154 +1,111 @@
-<h1 align="center">⚡ FK - Java & GenAI Developer ⚡</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Generative+AI+Developer;Spring+Boot+Engineer;Kafka+Redis+WebSocket+Builder;Building+Real-Time+Systems" />
-</p>
-
----
-
-# 👨‍💻 About Me
-
-💡 **Java Developer focused on building scalable backend systems**
-
-⚡ Specialized in:
-
-- Java
-- Spring Boot
-- Kafka
-- Redis
-- WebSocket
-- Real-time systems
-- Generative AI integrations
-
-🚀 Currently exploring
-
-- AI powered backend systems  
-- distributed architecture  
-- high performance microservices  
-
----
-
-# 🧠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,kafka,react,js,html,css,git,github,postman,vscode&theme=dark" />
-
-</p>
-
----
-
-# 📊 Skill Level
-
-![Java](https://img.shields.io/badge/Java-95%25-00F7FF?style=for-the-badge&logo=java)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-92%25-00F7FF?style=for-the-badge&logo=springboot)
-![Kafka](https://img.shields.io/badge/Kafka-85%25-00F7FF?style=for-the-badge&logo=apachekafka)
-![Redis](https://img.shields.io/badge/Redis-83%25-00F7FF?style=for-the-badge&logo=redis)
-![GenAI](https://img.shields.io/badge/GenAI-80%25-00F7FF?style=for-the-badge)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fk1271339&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fk1271339&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fk1271339&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=fk1271339&theme=algolia&no-frame=true&column=6"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fk1271339&theme=react-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/fk1271339/fk1271339/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 🧠 AI Developer Zone
-
-🚀 Building **AI powered backend systems** using:
-
-- Java
-- Spring Boot
-- LLM integrations
-- Kafka streaming
-- Redis caching
-- scalable microservices
-
----
-
-# 🕶 Matrix Terminal
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&width=900&lines=Initializing+AI+Core...;Loading+Java+Modules...;Connecting+Kafka+Streams...;Syncing+Redis+Cache...;Deploying+Backend+System...;Access+Granted+✔" />
-
-</p>
-
----
-
-# 🌐 Connect
-
-<p align="center">
-
-<a href="https://github.com/fk1271339">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=fk1271339&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
-</p>
-
----
-
-<h3 align="center">
-
-⚡ Code the Future • Build with Java • Scale with AI ⚡
-
-</h3>
+ (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
+diff --git a/PROFILE_README.md b/PROFILE_README.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..95ec8ead6ebfd6febd81bae421ecffeaa4641c35
+--- /dev/null
++++ b/PROFILE_README.md
+@@ -0,0 +1,101 @@
++<div align="center">
++
++# ⚡ FK • Java & GenAI Developer ⚡
++
++<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Kafka+%7C+Redis+%7C+WebSocket+Builder;Spring+Boot+Microservices+Engineer;Exploring+Generative+AI+Integrations" alt="Typing animation" />
++
++<p>
++  <a href="https://github.com/fk1271339-design"><img src="https://img.shields.io/github/followers/fk1271339-design?label=Followers&style=for-the-badge&color=0ea5e9" /></a>
++  <a href="https://github.com/fk1271339-design?tab=repositories"><img src="https://img.shields.io/badge/Projects-Live-22c55e?style=for-the-badge" /></a>
++  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Contact-Email-f97316?style=for-the-badge" /></a>
++</p>
++
++</div>
++
++---
++
++## 👨‍💻 About Me
++
++- 🔭 I build **scalable backend systems** using Java ecosystem.
++- ⚙️ Strong focus on **Spring Boot, Kafka, Redis, WebSocket**.
++- 🚀 Interested in **real-time architecture** and **high-performance microservices**.
++- 🤖 Currently exploring **GenAI + backend integration patterns**.
++
++---
++
++## 🧠 Core Tech Stack
++
++<p align="left">
++  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,kafka,js,html,css,git,github,vscode,postman" />
++</p>
++
++---
++
++## 📊 Skill Snapshot
++
++| Domain | Confidence |
++|---|---|
++| Java | ██████████░ 95% |
++| Spring Boot | █████████░░ 92% |
++| Kafka | ██████████░ 95% |
++| Redis | ████████░░░ 83% |
++| GenAI APIs | ████████░░░ 80% |
++
++---
++
++## 🛠 Featured Focus Areas
++
++- ⚡ Event-driven microservices
++- 🔁 Real-time WebSocket communication
++- 🧵 Async processing with Kafka
++- 📦 Clean REST API architecture
++- 🧠 AI-powered backend workflows
++
++---
++
++## 📈 GitHub Analytics
++
++<div align="center">
++
++<img height="170" src="https://github-readme-stats.vercel.app/api?username=fk1271339-design&show_icons=true&theme=tokyonight&hide_border=true" />
++<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=fk1271339-design&theme=tokyonight&hide_border=true" />
++
++<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fk1271339-design&layout=compact&theme=tokyonight&hide_border=true" />
++
++</div>
++
++> ✅ **Important:** `username` must exactly match your GitHub handle: `fk1271339-design`.
++> Agar username galat hoga, stats section error dikhayega.
++
++---
++
++## 🌐 Connect With Me
++
++<p align="left">
++  <a href="https://github.com/fk1271339-design"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
++  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
++  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
++</p>
++
++---
++
++## 📌 How to Use This Design
++
++1. GitHub me ek repo banao: **`fk1271339-design`** (same as username).
++2. Is file ka content copy karke repo ke `README.md` me paste karo.
++3. `your-email@example.com` aur LinkedIn link ko apni details se replace karo.
++4. Commit & push:
++
++```bash
++git add README.md
++git commit -m "Redesign profile README"
++git push
++```
++
++---
++
++<div align="center">
++
++### 💙 "Code. Scale. Automate. Repeat."
++
++</div>
+ 
+EOF
+)
