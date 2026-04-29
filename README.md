@@ -80,7 +80,11 @@ strengths:
 
 <div align="center">
 
-![snake gif](https://github.com/fk1271339-design/fk1271339-design/blob/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fk1271339-design/fk1271339-design/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fk1271339-design/fk1271339-design/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/fk1271339-design/fk1271339-design/output/github-snake.svg" />
+</picture>
 
 </div>
 
