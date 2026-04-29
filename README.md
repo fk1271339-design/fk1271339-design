@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Md Faiz%20%7C%20Software%20Engineer%20%28AI%20%2B%20Backend%20%2B%20Frontend%29&fontSize=31&fontAlign=50&fontAlignY=38&animation=fadeIn&color=0:020617,20:0f172a,40:1e293b,60:0284c7,80:06b6d4,100:22d3ee&fontColor=e2e8f0" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Md%20Faiz%20%7C%20Software%20Engineer%20%28AI%20%2B%20Backend%20%2B%20Frontend%29&fontSize=31&fontAlign=50&fontAlignY=38&animation=fadeIn&color=0:020617,20:0f172a,40:1e293b,60:0284c7,80:06b6d4,100:22d3ee&fontColor=e2e8f0" alt="header" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=1800&pause=700&color=22D3EE&center=true&vCenter=true&multiline=true&width=980&height=110&lines=AI+Engineer+%7C+Backend+Engineer+%7C+Software+Engineer;Java+%7C+Python+%7C+C%2B%2B+%7C+JavaScript+%7C+Linux;Microservices+%7C+Kafka+%7C+Redis+%7C+WebSocket+%7C+Cloud;Professional+Systems%2C+Clean+Code%2C+High+Impact)](https://git.io/typing-svg)
 
