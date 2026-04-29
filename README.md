@@ -1,17 +1,17 @@
 <!-- ============================================================ -->
-<!--         FK PROFILE README v4 (Professional + Snake)          -->
+<!--         Md Faiz PROFILE README v4 (Professional + Snake)          -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=FK%20%7C%20Software%20Engineer%20%28AI%20%2B%20Backend%20%2B%20Frontend%29&fontSize=31&fontAlign=50&fontAlignY=38&animation=fadeIn&color=0:020617,20:0f172a,40:1e293b,60:0284c7,80:06b6d4,100:22d3ee&fontColor=e2e8f0" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Md Faiz%20%7C%20Software%20Engineer%20%28AI%20%2B%20Backend%20%2B%20Frontend%29&fontSize=31&fontAlign=50&fontAlignY=38&animation=fadeIn&color=0:020617,20:0f172a,40:1e293b,60:0284c7,80:06b6d4,100:22d3ee&fontColor=e2e8f0" alt="header" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=1800&pause=700&color=22D3EE&center=true&vCenter=true&multiline=true&width=980&height=110&lines=AI+Engineer+%7C+Backend+Engineer+%7C+Software+Engineer;Java+%7C+Python+%7C+C%2B%2B+%7C+JavaScript+%7C+Linux;Microservices+%7C+Kafka+%7C+Redis+%7C+WebSocket+%7C+Cloud;Professional+Systems%2C+Clean+Code%2C+High+Impact)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Backend%20%2B%20Frontend-0ea5e9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Role-Full%20Stack%20Software%20Engineer-22c55e?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Speciality-Server%20Side%20Architecture-f97316?style=for-the-badge" />
-<img src="https://komarev.com/ghpvc/?username=fk1271339-design&label=Profile+Views&color=8b5cf6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=mdfaiz&label=Profile+Views&color=8b5cf6&style=for-the-badge" />
 
 </div>
 
@@ -20,7 +20,7 @@
 ## 🧠 Professional Snapshot
 
 ```yaml
-name: FK
+name: Md Faiz
 title: Software Engineer (AI + Backend + Frontend)
 status:
   backend: production-ready
@@ -80,7 +80,7 @@ strengths:
 
 <div align="center">
 
-![snake gif](https://github.com/fk1271339-design/fk1271339-design/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/mdfaiz/mdfaiz/blob/output/github-snake-dark.svg)
 
 </div>
 
@@ -103,7 +103,7 @@ jobs:
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         with:
-          github_user_name: fk1271339-design
+          github_user_name: mdfaiz
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -123,15 +123,15 @@ jobs:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fk1271339-design&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://streak-stats.demolab.com?user=fk1271339-design&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mdfaiz&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://streak-stats.demolab.com?user=mdfaiz&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fk1271339-design&layout=compact&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fk1271339-design&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaiz&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdfaiz&theme=tokyonight" />
 
 </div>
 
-> ✅ Important: `username` har card me exact `fk1271339-design` hi hona chahiye.
+> ✅ Important: `username` har card me exact `mdfaiz` hi hona chahiye.
 
 ---
 
@@ -149,7 +149,7 @@ jobs:
 ## 🤝 Connect
 
 <p>
-  <a href="https://github.com/fk1271339-design"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/mdfaiz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/your-x-handle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -160,7 +160,7 @@ jobs:
 
 ## ⚡ Setup Guide (Final)
 
-1. Profile repo name should be **`fk1271339-design`**.
+1. Profile repo name should be **`mdfaiz`**.
 2. Is file ko `README.md` me paste karo.
 3. `.github/workflows/snake.yml` create karke ऊपर wala workflow paste karo.
 4. Placeholders (email/LinkedIn/X/Telegram) replace karo.
@@ -176,7 +176,7 @@ git push
 
 <div align="center">
 
-### 🔥 FK v4 — Professional, Animated, and Recruiter-Ready
+### 🔥 Md Faiz v4 — Professional, Animated, and Recruiter-Ready
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:22d3ee,25:0ea5e9,50:0284c7,75:1e293b,100:020617" alt="footer" />
 
