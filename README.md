@@ -88,7 +88,7 @@ strengths:
 
 </div>
 
-> Snake tab kaam karega jab aap profile repo me niche diya hua GitHub Action workflow add karoge.
+
 
 ### `.github/workflows/snake.yml`
 
@@ -135,7 +135,6 @@ jobs:
 
 </div>
 
-> ✅ Important: `username` har card me exact `fk1271339-design` hi hona chahiye.
 
 ---
 
